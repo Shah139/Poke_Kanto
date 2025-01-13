@@ -1,0 +1,14 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.yourapp">
+    <application>
+        <queries>
+            <intent>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <uses-permission android:name="android.permission.INTERNET"/>
+                <data android:scheme="http" />
+                <data android:scheme="https" />
+            </intent>
+        </queries>
+    </application>
+</manifest>
