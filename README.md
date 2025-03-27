@@ -1,16 +1,22 @@
-# fitness
+# Poke Kanto App 🎮🔥  
+ 
 
-A new Flutter project.
+## 🌟 Overview  
+Poke Kanto is a beautifully designed app that lets users explore different types of Pokémon across various pages. It also features blogs about iconic Kanto tournaments like the Indigo and Orange Leagues. 
 
-## Getting Started
+## ✨ Features  
+- 📌 Explore Pokémon by type on different pages  
+- 📖 Read blogs about famous Kanto tournaments 
+- 🎨 Smooth UI for an engaging experience
 
-This project is a starting point for a Flutter application.
+- ![HomePage](https://github.com/user-attachments/assets/8cf71c28-33b4-4e8e-b1a8-302988b755bf)
+- ![App-Review](https://github.com/user-attachments/assets/2cec992d-6d30-4a1d-bbc4-9259a95aa745)
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Installation  
+1. Clone the repository:  
+   ```sh
+   git clone https://github.com/your-username/poke-kanto.git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. Open the project in your preferred IDE
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. Run the app and enjoy!
